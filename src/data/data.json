@@ -1,0 +1,44 @@
+{
+    "profiles":[
+        
+        {
+            "basicInformation": {
+                "name" : "Sateesh Matampalli",
+                "role" : "Multi skill Trainer",
+                "email" : "sateesh.m@apssdc.in",
+                "mobile": "+91 9676047715"
+            },
+            "education":[
+                {
+                    "degree":"B-Tech (CSE)",
+                    "institution": "Sri Venkateswara College of engineering, Tirupathi"
+                },
+                {
+                    "degree":"Inter",
+                    "institution":"Sri Chaithanya College"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "ZPHigh school"
+                }
+            ],
+            "Technical":[
+                {
+                "Areas":"Web Technologies :",
+                "areadec":"HTML,CSS,JAVASCRIPT"
+            },
+            {
+                "Areas":"Languages :",
+                "areadec":"PYTHON,PHP"
+            },
+            {
+                "Areas":"Frameworks :",
+                "areadec":"Bootstrap,Django,Flask"
+            }
+            ]
+
+                       
+
+        }
+    ]
+}
