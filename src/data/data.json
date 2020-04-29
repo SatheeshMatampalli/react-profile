@@ -35,8 +35,28 @@
                 "Areas":"Frameworks :",
                 "areadec":"Bootstrap,Django,Flask"
             }
-            ]
+            ],
+            "certifications":[
+                {
+                    "certificate":"I have Completed Python Certification in coursera"
+                },
+            {
+                    "certificate":"I have Certified FullStack NanoDegree in Udacity"               
+            },
+            {
+                "certificate":"I have Certified Python A-Z:python For Data Science With Real Excercises in Udemy."
+            },
+            {
+                "certificate":"Certificate of Completion on SQL Database Fundamentals from <b>Microsoft."
+            },
+            {
+                "certificate":"Certificate of Completion on JavaScript Fundamentals from Microsoft."
+            },
+            {
+                "certificate":"Certificate of Completion on HTML and CSS Fundamentals from Microsoft."
+            }
 
+            ]
                        
 
         }

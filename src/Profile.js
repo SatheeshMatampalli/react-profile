@@ -22,6 +22,9 @@ class Profile extends React.Component{
                 
                 </div>
                 <div >
+                
+                
+                </div>
                 <div className="card2">
                     <div className="card-bottom">
                         <h2> Educational Qualifications</h2>
@@ -50,7 +53,20 @@ class Profile extends React.Component{
                         ))}
                     </div>
                 </div> 
-                </div>                          
+                <div className="card2">
+                    <div className="card-bottom">
+                        <h2> Certifications</h2>
+                    </div>
+
+                    <div className="card-top">
+                        {specificProfile.certifications.map((i,j)=>(
+                        <ul>
+                            <li> {i.certificate} </li>
+                        <p>  </p>
+                        </ul>
+                        ))}
+                    </div>
+                </div>                           
                 
 
 
